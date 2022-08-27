@@ -1,7 +1,7 @@
-module github.com/jarrettnester/fruitpal/apiServiceLayer
+module github.com/jarrettnester/fruitPal/apiServiceLayer
 
 go 1.16
 
-replace github.com/jarrettnester/fruitpal/apiDataLayer => /Users/susannester/go/src/github.com/jarrettnester/fruitpal/apiDataLayer
+replace github.com/jarrettnester/fruitPal/apiDataLayer => /Users/susannester/go/src/github.com/jarrettnester/fruitpal/apiDataLayer
 
-require github.com/jarrettnester/fruitpal/apiDataLayer v1.0.0
+require github.com/jarrettnester/fruitPal/apiDataLayer v1.0.0

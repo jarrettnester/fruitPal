@@ -1,4 +1,4 @@
-module github.com/jarrettnester/fruitpal/apiDataLayer
+module github.com/jarrettnester/fruitPal/apiDataLayer
 
 go 1.16
 

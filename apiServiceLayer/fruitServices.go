@@ -2,7 +2,7 @@ package apiServiceLayer
 
 import (
 	"errors"
-	"github.com/jarrettnester/fruitpal/apiDataLayer"
+	"github.com/jarrettnester/fruitPal/apiDataLayer"
 )
 
 const (
